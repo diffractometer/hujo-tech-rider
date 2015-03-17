@@ -46,7 +46,6 @@ Band shall receive a minimum of sixty minutes free of all disturbances onstage f
 |   1200         |      12 KW
 |   1500         |      16 KW
 
-
 Promoter provides on own expenses high-quality PA system (minimum biamp) with subbasses! Band brings own FOH sound technician, but local sound technician is requested for whole soundcheck and show.
 
 Power supply: 220 V / 10 Ampere for Europe - 4x supplies on stage
@@ -60,8 +59,6 @@ Power supply: 220 V / 10 Ampere for Europe - 4x supplies on stage
 
 * 2 outputs
 * 3 boxes minimum power 500 W with 15“ speakers
-
-<br><br><br><br><br><br><br><br><br><br><br>
 
 ### Input List
 
@@ -84,13 +81,5 @@ Power supply: 220 V / 10 Ampere for Europe - 4x supplies on stage
 | 15  |vocals hunter | DI            | 
 | 16  |vocals josh   | DI            | 
 
-<br><br><br><br><br><br><br><br><br>
-
 ### Stage Plot:
 ![alt text](https://s3.eu-central-1.amazonaws.com/hujo/hujo+-+stage+plot.jpg "Hujo Stage Plot")
-
-
-
-
-
-
