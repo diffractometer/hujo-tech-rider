@@ -58,7 +58,7 @@ Power supply: 220 V / 10 Ampere for Europe - 4x supplies on stage
 **Monitors:**
 
 * 2 outputs
-* 3 boxes minimum power 500 W with 15“ speakers
+* 2 boxes minimum power 500 W with 15“ speakers
 
 ### Input List
 
