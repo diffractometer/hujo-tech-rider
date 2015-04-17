@@ -82,6 +82,8 @@ Power supply: 220 V / 10 Ampere for Europe - 4x supplies on stage
 | 15  |vocals hunter | DI            | 
 | 16  |vocals josh   | DI            | 
 
+Note: We bring a Behringer Ultra-DI Pro DI800 8 DI rack.
+
 ### Stage Plot:
 ![alt text](https://s3.eu-central-1.amazonaws.com/hujo/hujo+-+stage+plot.jpg "Hujo Stage Plot")
 
