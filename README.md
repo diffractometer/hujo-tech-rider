@@ -61,6 +61,8 @@ Power supply: 220 V / 10 Ampere for Europe - 4x supplies on stage
 * 2 outputs
 * 2 boxes minimum power 500 W with 15“ speakers
 
+<!--<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />-->
+
 ### Input List
 
 | #          | Input    | DI or Mic?    |  
@@ -83,6 +85,8 @@ Power supply: 220 V / 10 Ampere for Europe - 4x supplies on stage
 | 16  |vocals josh   | DI            | 
 
 Note: We bring a Behringer Ultra-DI Pro DI800 8 DI rack.
+
+<!--<br /><br /><br /><br /><br /><br />-->
 
 ### Stage Plot:
 ![alt text](https://s3.eu-central-1.amazonaws.com/hujo/hujo+-+stage+plot.jpg "Hujo Stage Plot")
